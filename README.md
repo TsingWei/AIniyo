@@ -1,5 +1,6 @@
 # GUI使用说明
 基于graphics图形库实现
+![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
 1. 首先下载graphics图形包：[graphics.py](http://mcsp.wartburg.edu/zelle/python/graphics.py)   
   
 2. 将下载好的py文件放入python的第三方库文件夹中:       **\Programs\Python\Python36-32\Lib\site-packages
