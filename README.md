@@ -32,7 +32,7 @@
                     self.color = -self.color
 
                     # 展开下一层搜索
-                    score = self.minimaxWithDepth(-who,depth-1,alpha,beta)
+                    score = self.minimax(-who,depth-1,alpha,beta)
                     
                     # 该子节点搜索完后,移除该棋子
             >>>>>>  self.window.remove(next_step)
